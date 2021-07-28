@@ -1,3 +1,3 @@
-# Experiencein, projeto de rede social desenvolvido durante as aulas de Programação para Interent II.
+# Experiencein
 
-Link: http://naionararamos.pythonanywhere.com/login/
+Projeto de rede social desenvolvido durante as aulas de Programação para Interent II.
